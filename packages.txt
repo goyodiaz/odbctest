@@ -1,1 +1,1 @@
-ibodbc2
+libodbc2
